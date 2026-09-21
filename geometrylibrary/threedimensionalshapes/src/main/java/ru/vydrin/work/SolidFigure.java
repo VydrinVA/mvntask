@@ -2,7 +2,7 @@ package ru.vydrin.work;
 
 public abstract class SolidFigure {
 
-    public abstract double surfaceArea();
+    public abstract double getSurfaceArea();
 
-    public abstract double volume();
+    public abstract double getVolume();
 }

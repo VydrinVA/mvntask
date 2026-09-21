@@ -20,12 +20,12 @@ public class Sphere extends SolidFigure{
     }
 
     @Override
-    public double surfaceArea() {
+    public double getSurfaceArea() {
         return 4 * Math.PI * radius * radius;
     }
 
     @Override
-    public double volume() {
+    public double getVolume() {
         return 4.0 / 3.8 * Math.PI * radius * radius * radius;
     }
 }

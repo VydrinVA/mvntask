@@ -20,12 +20,12 @@ public class Cube extends SolidFigure{
     }
 
     @Override
-    public double surfaceArea() {
+    public double getSurfaceArea() {
         return 6 * side * side;
     }
 
     @Override
-    public double volume() {
+    public double getVolume() {
         return side * side * side;
     }
 }
