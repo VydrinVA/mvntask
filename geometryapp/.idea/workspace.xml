@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Fixed maven dependency conflict">
-      <change afterPath="$PROJECT_DIR$/../geometrylibrary/threedimensionalshapes/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../geometrylibrary/threedimensionalshapes/src/test/java/ru/vydrin/work/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
