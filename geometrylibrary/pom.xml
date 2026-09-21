@@ -11,6 +11,7 @@
     <modules>
         <module>twodimensional</module>
         <module>geometryutils</module>
+        <module>threedimensionalshapes</module>
     </modules>
 
     <properties>

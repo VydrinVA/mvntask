@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Changed dependency from geometryapp to twodimensional">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/geometryutils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/geometryutils/pom.xml" afterDir="false" />
+    <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Fixed maven dependency conflict">
+      <change afterPath="$PROJECT_DIR$/../geometrylibrary/threedimensionalshapes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geometrylibrary/threedimensionalshapes/src/test/java/ru/vydrin/work/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrylibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,8 @@
     <MESSAGE value="Changed geometrylibrary version to 1.1-SNAPSHOT" />
     <MESSAGE value="Resolved &quot;Dependency not found&quot;&#10;&#10;Used &quot;mvn clean package&quot;" />
     <MESSAGE value="Changed dependency from geometryapp to twodimensional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed dependency from geometryapp to twodimensional" />
+    <MESSAGE value="Removed junit dependency&#10;Changed geometryutils version&#10;&#10;[INFO] --- dependency:3.7.0:tree (default-cli) @ geometryapp ---&#10;[INFO] ru.vydrin.work:geometryapp:jar:1.0-SNAPSHOT&#10;[INFO] +- ru.vydrin.work:twodimensional:jar:1.2-SNAPSHOT:compile&#10;[INFO] \- ru.vydrin.work:geometryutils:jar:1.1.0-SNAPSHOT:compile&#10;[INFO]    \- (ru.vydrin.work:twodimensional:jar:1.1-SNAPSHOT:compile - omitted for conflict with 1.2-SNAPSHOT)" />
+    <MESSAGE value="Fixed maven dependency conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed maven dependency conflict" />
   </component>
 </project>
