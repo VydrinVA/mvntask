@@ -10,6 +10,10 @@ public final class GeometryUtils {
         return cm * 2.54;
     }
 
+    public static double metersToFeet(double meters) {
+        return meters * 3.28;
+    }
+
     public static PlainShape largerByArea(PlainShape one, PlainShape two) {
         return one.getArea() >= two.getArea() ? one : two;
     }
