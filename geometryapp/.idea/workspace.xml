@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Resolved &quot;Dependency not found&quot;&#10;&#10;Used &quot;mvn clean package&quot;">
-      <change afterPath="$PROJECT_DIR$/../geometrylibrary/geometryutils/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../geometrylibrary/geometryutils/src/main/java/ru/vydrin/work/GeometryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../geometrylibrary/twodimensional/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/src/main/java/ru/vydrin/work/twodimensional/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/twodimensional/src/main/java/ru/vydrin/work/twodimensional/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/src/main/java/ru/vydrin/work/twodimensional/PlainShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/twodimensional/src/main/java/ru/vydrin/work/twodimensional/PlainShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/src/main/java/ru/vydrin/work/twodimensional/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/twodimensional/src/main/java/ru/vydrin/work/twodimensional/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../geometrylibrary/src/main/java/ru/vydrin/work/twodimensional/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/twodimensional/src/main/java/ru/vydrin/work/twodimensional/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
