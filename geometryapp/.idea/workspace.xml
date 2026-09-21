@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Resolved &quot;Dependency not found&quot;&#10;&#10;Used &quot;mvn clean package&quot;">
+    <list default="true" id="850880b6-e0e7-4845-a7c0-825852b21e06" name="Changes" comment="Changed dependency from geometryapp to twodimensional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/vydrin/work/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geometrylibrary/geometryutils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geometrylibrary/geometryutils/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed geometrylibrary version to 1.1-SNAPSHOT" />
     <MESSAGE value="Resolved &quot;Dependency not found&quot;&#10;&#10;Used &quot;mvn clean package&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolved &quot;Dependency not found&quot;&#10;&#10;Used &quot;mvn clean package&quot;" />
+    <MESSAGE value="Changed dependency from geometryapp to twodimensional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed dependency from geometryapp to twodimensional" />
   </component>
 </project>
