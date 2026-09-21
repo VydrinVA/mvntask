@@ -23,6 +23,22 @@ public class Triangle extends PlainShape{
         return a + b + c;
     }
 
+    @Override
+    public String getName() {
+        return "Triangle";
+    }
+
+    @Override
+    public String toString() {
+        return getName() +
+                ": a = " +
+                a +
+                " b = " +
+                b +
+                " c = " +
+                c;
+    }
+
     public double getA() {
         return a;
     }

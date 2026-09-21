@@ -18,6 +18,17 @@ public class Circle extends PlainShape{
         return 2 * Math.PI * radius;
     }
 
+    @Override
+    public String getName() {
+        return "Circle";
+    }
+
+    @Override
+    public String toString() {
+        return getName() + ": radius = " +
+                radius;
+    }
+
     public double getRadius() {
         return radius;
     }

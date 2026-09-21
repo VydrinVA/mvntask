@@ -21,6 +21,20 @@ public class Rectangle extends PlainShape {
         return (width * height) * 2;
     }
 
+    @Override
+    public String getName() {
+        return "Rectangle";
+    }
+
+    @Override
+    public String toString() {
+        return getName() +
+                ": width = " +
+                width +
+                " height = " +
+                height;
+    }
+
     public double getWidth() {
         return width;
     }

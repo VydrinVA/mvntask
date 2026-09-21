@@ -5,4 +5,6 @@ public abstract class PlainShape {
     public abstract double getArea();
 
     public abstract double getPerimeter();
+
+    public abstract String getName();
 }
