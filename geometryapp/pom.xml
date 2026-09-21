@@ -14,11 +14,20 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>ru.vydrin.work</groupId>
+        <artifactId>twodimensional</artifactId>
+        <version>1.2-SNAPSHOT</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
   <dependencies>
     <dependency>
       <groupId>ru.vydrin.work</groupId>
       <artifactId>twodimensional</artifactId>
-      <version>1.2-SNAPSHOT</version> <!--resolved after "mvn clean package!"-->
     </dependency>
     <dependency>
       <groupId>ru.vydrin.work</groupId>
