@@ -24,7 +24,7 @@
     <dependency>
       <groupId>ru.vydrin.work</groupId>
       <artifactId>geometrylibrary</artifactId>
-      <version>1.1-SNAPSHOT</version>
+      <version>1.1-SNAPSHOT</version> <!--resolved after "mvn clean package!"-->
     </dependency>
   </dependencies>
 </project>
