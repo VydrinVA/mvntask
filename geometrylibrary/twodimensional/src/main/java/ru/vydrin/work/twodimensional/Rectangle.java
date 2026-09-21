@@ -18,7 +18,7 @@ public class Rectangle extends PlainShape {
 
     @Override
     public double getPerimeter() {
-        return (width * height) * 2;
+        return (width + height) * 2;
     }
 
     @Override
