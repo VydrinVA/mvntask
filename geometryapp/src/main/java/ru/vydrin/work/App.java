@@ -57,7 +57,14 @@ public class App
     private static void testThreedimensional() {
         SolidFigure sphere = new Sphere(15);
         System.out.println(sphere);
-        System.out.println(sphere.surfaceArea());
-        System.out.println(sphere.volume());
+        System.out.println(sphere.getSurfaceArea());
+        System.out.println(sphere.getVolume());
+    }
+
+    private static void testCylinder() {
+        SolidFigure cylinder = new Cylinder(10, 5);
+        System.out.println(cylinder);
+        System.out.println(cylinder.getVolume());
+        System.out.println(cylinder.getSurfaceArea());
     }
 }
